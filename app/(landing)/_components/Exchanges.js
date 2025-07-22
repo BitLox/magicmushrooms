@@ -5,13 +5,13 @@ const exchanges = [
   {
     flag: "PumpFun",
     title: "Moonshot",
-    link: "https://dexscreener.com/solana/8j5r6kteet9cm6wamq2mwb2sneu97cz1jtksdg76moon",
+    link: "https://dexscreener.com/solana/8EQpqJPCwx44G8TMLeCe7ALEs7YpZNMYWKYFJjZasNh4",
   },
-  // {
-  //   flag: "Binance",
-  //   title: "Binance",
-  //   link: "https://pump.fun/coin/99b83VR35uBkxkq3XmFhyEvSFfuQKZeXPwNzG4wxpump",
-  // },
+//   {
+//     flag: "Binance",
+//     title: "Binance",
+//     link: "https://pump.fun/coin/8EQpqJPCwx44G8TMLeCe7ALEs7YpZNMYWKYFJjZasNh4",
+//   },
 ];
 
 const Exchanges = () => {

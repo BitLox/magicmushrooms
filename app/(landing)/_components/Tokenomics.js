@@ -5,7 +5,7 @@ const cards = [
   {
     img: "max-supply.gif",
     title: "Max Supply",
-    desc: "1.000.000.000",
+    desc: "10,000,000,000",
   },
   {
     img: "tax.gif",
@@ -15,7 +15,7 @@ const cards = [
   {
     img: "burn.gif",
     title: "Liquidity",
-    desc: "Burnt",
+    desc: "Locked",
   },
   {
     img: "solana.gif",

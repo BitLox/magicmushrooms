@@ -69,7 +69,7 @@ const Nav = () => {
             target="_blank"
             className="transition duration-200 font-stopbuck text-lg sm:text-2xl rounded-xl px-3.5 py-2.5 font-medium text-duis shadow-2xl bg-black hover:bg-duis hover:text-gray-800 hover:outline-black outline outline-2 outline-offset-0"
           >
-            Buy $DUIS
+            Buy $MYCO
           </a>
         </div>
       </div>

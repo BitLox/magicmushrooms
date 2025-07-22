@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Dúi (aka Nguyen Van Dui) | Solana",
-  description: "Dui is forever on Solana",
+  title: "Magic Mushrooms | Solana",
+  description: "Take a trip on Solana",
 };
 
 export default function RootLayout({ children }) {
