@@ -4,9 +4,9 @@ import React, { useEffect, useState } from "react";
 import Image from "next/image";
 
 const navigation = [
-  { name: "About", href: "#about" },
+  { name: "Aboot", href: "#about" },
   { name: "Exchanges", href: "#exchanges" },
-  { name: "Tokenomics", href: "#tokenomics" },
+  { name: "Tokenshroomics", href: "#tokenomics" },
   { name: "How to buy", href: "#buy" },
   // { name: "Wall of love", href: "#love" },
 ];
