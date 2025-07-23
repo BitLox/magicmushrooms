@@ -26,7 +26,7 @@ const Footer = () => {
         </div>
       </div>
       <div class="overflow-hidden relative h-24">
-        <img className="absolute bottom-0 w-full" src="grass.svg" alt="grass" />
+        <img className="absolute bottom-0 w-full" src="mushroom-border.svg" alt="grass" />
       </div>
 
       <div className="absolute bottom-0 w-full">
