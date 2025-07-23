@@ -12,26 +12,26 @@ const cards = [
     title: "x",
     icon: "X",
   },
-  {
-    link: "https://www.instagram.com/nguyen_van_dui",
-    title: "Instagram",
-    icon: "Instagram",
-  },
-  {
-    link: "https://www.youtube.com/@lanlanpet",
-    title: "Youtube",
-    icon: "Youtube",
-  },
-  {
-    link: "https://www.tiktok.com/@nguyen_van_dui",
-    title: "Tiktok",
-    icon: "Tiktok",
-  },
-  {
-    link: "https://www.facebook.com/gaumeolangdui",
-    title: "Facebook",
-    icon: "Facebook",
-  },
+//   {
+//     link: "https://www.instagram.com/nguyen_van_dui",
+//     title: "Instagram",
+//     icon: "Instagram",
+//   },
+//   {
+//     link: "https://www.youtube.com/@lanlanpet",
+//     title: "Youtube",
+//     icon: "Youtube",
+//   },
+//   {
+//     link: "https://www.tiktok.com/@nguyen_van_dui",
+//     title: "Tiktok",
+//     icon: "Tiktok",
+//   },
+//   {
+//     link: "https://www.facebook.com/gaumeolangdui",
+//     title: "Facebook",
+//     icon: "Facebook",
+//   },
 ];
 
 const Socials = () => {
