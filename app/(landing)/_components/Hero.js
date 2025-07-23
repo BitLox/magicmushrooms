@@ -142,7 +142,7 @@ const Hero = () => {
       playsInline  // Crucial for autoplay on mobile (esp. iOS)
       className="absolute top-0 left-0 h-full w-full object-cover -z-10"
     >
-      <source src="/mushroom_forest.mp4" type="video/mp4" />  // Put your video in public/hero.mp4
+      <source src="/mushroom_world.mp4" type="video/mp4" />  // Put your video in public/hero.mp4
       Your browser does not support the video tag.  // Fallback text (optional)
     </video>      <h1 className="text-6xl md:text-8xl font-bold text-white glow-text z-10 text-center">
         Magic Mushrooms Coin
