@@ -7,7 +7,7 @@ export const X = () => {
       viewBox="0 0 512 509.64"
       stroke="currentColor"
       fill="currentColor"
-      stroke-width="0"
+      strokeWidth="0"
       height="1em"
       width="1em"
     >
