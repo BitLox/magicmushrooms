@@ -55,3 +55,17 @@ body {
     linear-gradient(#000 0 0) bottom/67% 58% no-repeat;
   background: #e4e0e1;
 }
+
+h1 {
+	font-family: 'Impact', sans-serif;
+	font-size: 5em;
+	text-transform: uppercase;
+	animation: wavyGlow 2s infinite;
+	margin: 0 0 20px;
+}
+
+@keyframes wavyGlow {
+	0% { transform: skewX(0deg); text-shadow: 0 0 10px #ff00ff; }
+	50% { transform: skewX(10deg); text-shadow: 0 0 30px #00ffff; }
+	100% { transform: skewX(0deg); text-shadow: 0 0 10px #ff00ff; }
+}
