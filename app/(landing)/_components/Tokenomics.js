@@ -32,7 +32,7 @@ const Tokenomics = () => {
           Tokenshroomics
         </h2>
         <h3 className="font-stopbuck text-2xl text-center text-black">
-          {`It's Moonshot Tokenshroomics!`}
+          {`It's Moonshot Tokenomics!`}
         </h3>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 2xl:grid-flow-col gap-5 gap-y-20 justify-center justify-items-center">
