@@ -38,7 +38,7 @@ const Nav = () => {
         <div className="flex lg:flex-1">
           <a href="#" className="-m-1.5 p-1.5">
             <Image
-              src="/logo-coin.png"
+              src="/logo-coin-mushroom.png"
               width={500}
               height={500}
               className={`transition-all duration-300 ${
