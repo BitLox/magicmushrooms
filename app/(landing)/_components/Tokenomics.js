@@ -29,7 +29,7 @@ const Tokenomics = () => {
     <div id="tokenomics" className="max-w-[85rem] mx-auto py-12">
       <div className="my-16">
         <h2 className="font-stopbuck text-6xl text-duis text-shadow text-center">
-          Tokenshroomics
+          Tokenomics
         </h2>
         <h3 className="font-stopbuck text-2xl text-center text-black">
           {`It's Moonshot Tokenomics!`}
