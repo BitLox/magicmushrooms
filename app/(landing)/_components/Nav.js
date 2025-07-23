@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 import Image from "next/image";
 
 const navigation = [
-  { name: "Aboot", href: "#about" },
+  { name: "About", href: "#about" },
   { name: "Exchanges", href: "#exchanges" },
   { name: "Tokenshroomics", href: "#tokenomics" },
   { name: "How to buy", href: "#buy" },
