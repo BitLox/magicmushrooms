@@ -133,9 +133,18 @@ const Hero = () => {
   }, []);
 
   return (
-    <div className="h-dvh flex items-center justify-center relative">
-      <div className="bg-[url(/hero.png)] bg-center bg-cover bg-no-repeat absolute top-0 left-0 h-full w-full -z-10"></div>
-      <h1 className="text-6xl md:text-8xl font-bold text-white glow-text z-10 text-center">
+<div className="h-dvh flex items-center justify-center relative">
+    {/* Swap this in for the old bg div */}
+    <video
+      autoPlay
+      loop
+      muted
+      playsInline  // Crucial for autoplay on mobile (esp. iOS)
+      className="absolute top-0 left-0 h-full w-full object-cover -z-10"
+    >
+      <source src="/mushroom_forest.mp4" type="video/mp4" />  // Put your video in public/hero.mp4
+      Your browser does not support the video tag.  // Fallback text (optional)
+    </video>      <h1 className="text-6xl md:text-8xl font-bold text-white glow-text z-10 text-center">
         Magic Mushrooms Coin
       </h1>
       <button
